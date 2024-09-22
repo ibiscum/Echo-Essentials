@@ -6,8 +6,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/PacktPublishing/Echo-Essentials/chapter7/middlewares"
-	"github.com/PacktPublishing/Echo-Essentials/chapter7/renderings"
+	"github.com/ibiscum/Echo-Essentials/chapter7/middlewares"
+	"github.com/ibiscum/Echo-Essentials/chapter7/renderings"
 	"github.com/labstack/echo"
 )
 

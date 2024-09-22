@@ -3,8 +3,8 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/PacktPublishing/Echo-Essentials/chapter6/middlewares"
-	"github.com/PacktPublishing/Echo-Essentials/chapter6/renderings"
+	"github.com/ibiscum/Echo-Essentials/chapter6/middlewares"
+	"github.com/ibiscum/Echo-Essentials/chapter6/renderings"
 	"github.com/labstack/echo"
 	uuid "github.com/satori/go.uuid"
 )

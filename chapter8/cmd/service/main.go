@@ -3,10 +3,10 @@ package main
 import (
 	"html/template"
 
-	"github.com/PacktPublishing/Echo-Essentials/chapter8/bindings"
-	"github.com/PacktPublishing/Echo-Essentials/chapter8/handlers"
-	"github.com/PacktPublishing/Echo-Essentials/chapter8/middlewares"
-	"github.com/PacktPublishing/Echo-Essentials/chapter8/models"
+	"github.com/ibiscum/Echo-Essentials/chapter8/bindings"
+	"github.com/ibiscum/Echo-Essentials/chapter8/handlers"
+	"github.com/ibiscum/Echo-Essentials/chapter8/middlewares"
+	"github.com/ibiscum/Echo-Essentials/chapter8/models"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 	"github.com/labstack/gommon/log"

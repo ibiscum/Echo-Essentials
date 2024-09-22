@@ -5,10 +5,10 @@ import (
 
 	_ "github.com/mattn/go-sqlite3"
 
-	"github.com/PacktPublishing/Echo-Essentials/chapter6/bindings"
-	"github.com/PacktPublishing/Echo-Essentials/chapter6/handlers"
-	"github.com/PacktPublishing/Echo-Essentials/chapter6/middlewares"
-	"github.com/PacktPublishing/Echo-Essentials/chapter6/models"
+	"github.com/ibiscum/Echo-Essentials/chapter6/bindings"
+	"github.com/ibiscum/Echo-Essentials/chapter6/handlers"
+	"github.com/ibiscum/Echo-Essentials/chapter6/middlewares"
+	"github.com/ibiscum/Echo-Essentials/chapter6/models"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 	"github.com/labstack/gommon/log"

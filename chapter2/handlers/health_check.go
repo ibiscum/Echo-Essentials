@@ -3,7 +3,7 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/PacktPublishing/Echo-Essentials/chapter2/renderings"
+	"github.com/ibiscum/Echo-Essentials/chapter2/renderings"
 	"github.com/labstack/echo"
 )
 

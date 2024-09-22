@@ -3,10 +3,10 @@ package main
 import (
 	"database/sql"
 
-	"github.com/PacktPublishing/Echo-Essentials/chapter5/bindings"
-	"github.com/PacktPublishing/Echo-Essentials/chapter5/handlers"
-	"github.com/PacktPublishing/Echo-Essentials/chapter5/middlewares"
-	"github.com/PacktPublishing/Echo-Essentials/chapter5/models"
+	"github.com/ibiscum/Echo-Essentials/chapter5/bindings"
+	"github.com/ibiscum/Echo-Essentials/chapter5/handlers"
+	"github.com/ibiscum/Echo-Essentials/chapter5/middlewares"
+	"github.com/ibiscum/Echo-Essentials/chapter5/models"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 	"github.com/labstack/gommon/log"

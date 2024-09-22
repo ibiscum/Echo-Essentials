@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/PacktPublishing/Echo-Essentials/chapter7/bindings"
-	"github.com/PacktPublishing/Echo-Essentials/chapter7/handlers"
-	"github.com/PacktPublishing/Echo-Essentials/chapter7/middlewares"
-	"github.com/PacktPublishing/Echo-Essentials/chapter7/models"
+	"github.com/ibiscum/Echo-Essentials/chapter7/bindings"
+	"github.com/ibiscum/Echo-Essentials/chapter7/handlers"
+	"github.com/ibiscum/Echo-Essentials/chapter7/middlewares"
+	"github.com/ibiscum/Echo-Essentials/chapter7/models"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 	"github.com/labstack/gommon/log"

@@ -7,8 +7,8 @@ import (
 
 	_ "github.com/mattn/go-sqlite3"
 
-	"github.com/PacktPublishing/Echo-Essentials/chapter3/handlers"
-	"github.com/PacktPublishing/Echo-Essentials/chapter3/models"
+	"github.com/ibiscum/Echo-Essentials/chapter3/handlers"
+	"github.com/ibiscum/Echo-Essentials/chapter3/models"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 	"github.com/labstack/gommon/log"

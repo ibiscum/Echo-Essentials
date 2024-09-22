@@ -5,9 +5,9 @@ import (
 
 	_ "github.com/mattn/go-sqlite3"
 
-	"github.com/PacktPublishing/Echo-Essentials/chapter4/handlers"
-	"github.com/PacktPublishing/Echo-Essentials/chapter4/middlewares"
-	"github.com/PacktPublishing/Echo-Essentials/chapter4/models"
+	"github.com/ibiscum/Echo-Essentials/chapter4/handlers"
+	"github.com/ibiscum/Echo-Essentials/chapter4/middlewares"
+	"github.com/ibiscum/Echo-Essentials/chapter4/models"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 	"github.com/labstack/gommon/log"

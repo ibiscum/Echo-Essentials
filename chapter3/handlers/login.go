@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/PacktPublishing/Echo-Essentials/chapter3/bindings"
-	"github.com/PacktPublishing/Echo-Essentials/chapter3/models"
-	"github.com/PacktPublishing/Echo-Essentials/chapter3/renderings"
 	jwt "github.com/dgrijalva/jwt-go"
+	"github.com/ibiscum/Echo-Essentials/chapter3/bindings"
+	"github.com/ibiscum/Echo-Essentials/chapter3/models"
+	"github.com/ibiscum/Echo-Essentials/chapter3/renderings"
 	"github.com/labstack/echo"
 	"golang.org/x/crypto/bcrypt"
 )

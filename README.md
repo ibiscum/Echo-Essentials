@@ -16,9 +16,9 @@ The instructions also assume you know how to use `git` distributed version
 control tool.
 
 ```bash
-mkdir -p $GOPATH/src/github.com/PacktPublishing
-cd $GOPATH/src/github.com/PacktPublishing
-git clone https://github.com/PacktPublishing/Echo-Essentials
+mkdir -p $GOPATH/src/github.com/ibiscum
+cd $GOPATH/src/github.com/ibiscum
+git clone https://github.com/ibiscum/Echo-Essentials
 cd Echo-Essentials/
 ```
 

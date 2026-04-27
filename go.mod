@@ -1,6 +1,6 @@
 module github.com/ibiscum/Echo-Essentials
 
-go 1.23.0
+go 1.25.0
 
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
@@ -18,8 +18,8 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.42
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v1.2.2 // indirect
-	golang.org/x/crypto v0.37.0
-	golang.org/x/net v0.29.0 // indirect
-	golang.org/x/sys v0.32.0 // indirect
-	golang.org/x/text v0.24.0 // indirect
+	golang.org/x/crypto v0.50.0
+	golang.org/x/net v0.52.0 // indirect
+	golang.org/x/sys v0.43.0 // indirect
+	golang.org/x/text v0.36.0 // indirect
 )
